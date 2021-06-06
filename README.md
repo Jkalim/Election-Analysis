@@ -16,6 +16,7 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Summary
 The analysis of the elections show that: 
+
 -There were 369,711 total votes
 -The candidates were:
   - Charles Casper Stockham
