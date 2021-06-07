@@ -26,11 +26,16 @@ The analysis of the elections show that:
 -The candidate results were
   - Charles Casper Stockham received 23.0% of the vote and 85,213 number of votes
   - Diana DeGette received 73.8% of the vote and 272,892 number of votes
-  - Raymon Anthny Doane received 3.1% of teh vote and 11,606 number of votes
+  - Raymon Anthony Doane received 3.1% of teh vote and 11,606 number of votes
 
 - The winner of the election was:
   -Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
   
   ## Challenge overview
+  The purpose of this election audit is to:
+    - calculate the vote turnout of the election for each county
+    - determine the percentage of votes registererd in each county 
+    - determine the county with the highest turnout in the election
+ 
   
   ## Challenge Summary
